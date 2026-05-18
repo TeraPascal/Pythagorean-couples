@@ -1,1 +1,1 @@
-# Pythagorean-couples
+# Pythagorean Couples
