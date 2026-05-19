@@ -1,10 +1,10 @@
 # Pythagorean Couples
-list of first 100 Pythagorean couples :
+list of first 100 Pythagorean couples :\
 3 4 5\
-5 12 13
-6 8 10
-7 24 25
-8 15 17
+5 12 13\
+6 8 10\
+7 24 25\
+8 15 17\
 9 12 15
 9 40 41
 10 24 26
