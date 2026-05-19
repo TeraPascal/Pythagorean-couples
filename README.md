@@ -1,6 +1,6 @@
 # Pythagorean Couples
 list of first 100 Pythagorean couples :
-3 4 5
+3 4 5\
 5 12 13
 6 8 10
 7 24 25
