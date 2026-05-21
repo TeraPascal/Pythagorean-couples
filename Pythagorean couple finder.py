@@ -9,4 +9,4 @@ for i in range (1, 100):
         if m.fabs(n-m.floor(n)) < .001 :
             k += 1
             print(i, j, m.floor(n))
-print('Number of pythogerean couple =',k)
+print('Number of pythogerean couples =',k)
