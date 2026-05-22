@@ -61,4 +61,4 @@ list of first 100 Pythagorean couples :\
 66 88 110\
 69 92 115\
 72 96 120\
-80 84 116\
+80 84 116
